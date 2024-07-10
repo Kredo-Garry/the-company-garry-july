@@ -48,6 +48,7 @@
                     <p class="text-center small mt-3">Registerd already? <a href="../views">Login</a></p>
                     <p class="text-center small mt-3">Copyright @ Kredo 2024</p>
                 </div>
+                <p>test</p>
             </div>
         </div>
     </div>
